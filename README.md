@@ -1,2 +1,2 @@
-# crawgeojson
-craw geojson and sld from geoserver
+# crawlgeojson
+crawl geojson and sld from geoserver
